@@ -12,3 +12,11 @@ it also got a random username selector if u want to just create infinite accs Ju
 *cough*
 Of course only for educational purposes
 *cough*
+
+
+
+
+
+Credits to https://raw.githubusercontent.com/H20CalibreYT/RobloxAccountCreator/main/firstnames.txt
+           https://raw.githubusercontent.com/H20CalibreYT/RobloxAccountCreator/main/lastnames.txt
+           **Used his github for the names to create the randome names**
