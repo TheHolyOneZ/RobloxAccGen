@@ -30,7 +30,7 @@ GenV8 will have=
                                  **RoGenV8 - TheZ**
 
 
-Customizable:
+### Customizable:
 - Username Length
 - Password Length 
 - Custom Username File (multiple)
@@ -42,12 +42,19 @@ Customizable:
 - unique user gen (5 letter user generator)
 - Realistic Username generator
 
-Visuell:
+### Visuell:
 - Account History displayer
 - Alt manager (You can select a txt file with a format Username:password)
 - Toggle headless mode |--> on=(without opening browser to create accounts)
 .                     .|--> off is basically for better debugging or if captcha is not getting solved automatically     
 .                     .|--> if x in the field it means its activated!
+
+
+  ### Extras
+  - GroupJoiner per ID of Group
+  - Friend Request Sender per ID of User
+  - Follow User per ID of User
+  - 
 
 
 
