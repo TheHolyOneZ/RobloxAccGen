@@ -25,7 +25,7 @@ Credits to https://raw.githubusercontent.com/H20CalibreYT/RobloxAccountCreator/m
 
 
 
-           GenV8 will have= 
+GenV8 will have= 
            
                                  **RoGenV8 - TheZ**
 
@@ -46,7 +46,47 @@ Visuell:
 - Account History displayer
 - Alt manager (You can select a txt file with a format Username:password)
 - Toggle headless mode |--> on=(without opening browser to create accounts)
-                       |--> off is basically for better debugging or if captcha is not getting solved automatically     
-                       |--> if x in the field it means its activated!
+.                     .|--> off is basically for better debugging or if captcha is not getting solved automatically     
+.                     .|--> if x in the field it means its activated!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
                               
                     
