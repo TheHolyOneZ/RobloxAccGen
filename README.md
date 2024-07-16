@@ -59,6 +59,8 @@ GenV8 will have=
 ### Extras
   - GroupJoiner per ID of Group
   - Follow User per ID of User
+  - Friend Request Sender (not working right now)
+    
     
 
 
