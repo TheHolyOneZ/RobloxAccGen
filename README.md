@@ -13,6 +13,8 @@ it also got a random username selector if u want to just create infinite accs Ju
 Of course only for educational purposes
 *cough*
 
+By the way all the code is made with python so if u guys want the source code or smth dont be shy and add my khord: zoryisnotreal
+
 
 
 
