@@ -27,9 +27,9 @@ Credits to https://raw.githubusercontent.com/H20CalibreYT/RobloxAccountCreator/m
 
 
 
-GenV8 will have= 
+GenV8BETA (final version will have a bit more then beta prolly) will have= 
            
-                                 **RoGenV8 - TheZ**
+                                 **RoGenV8BETA - TheZ**
 
 
 ### Customizable:
