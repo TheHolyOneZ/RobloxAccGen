@@ -59,9 +59,10 @@ GenV8BETA (final version will have a bit more then beta prolly) will have=
 
 
 ### Extras
+                !ID = Target
   - GroupJoiner per ID of Group
   - Follow User per ID of User
-  - Friend Request Sender (not working right now)
+  - Friend Request Sender per ID
     
     
 
