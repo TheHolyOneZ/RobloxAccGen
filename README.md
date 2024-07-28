@@ -1,4 +1,7 @@
-# RobloxAccGen
+# RobloxAccGen 
+____________________________________________________________________________
+ -- Yo by the way i would appreciate when u guys star my stuff -- 
+ ____________________________________________________________________________
 A super simple Roblox Account generator using the microsoft edge browser 
 
 
