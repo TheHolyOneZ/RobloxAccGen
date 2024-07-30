@@ -4,7 +4,7 @@ ____________________________________________________________________________
  ____________________________________________________________________________
 A super simple Roblox Account generator using the microsoft edge browser 
 
-# Just a reminder at the freind request sender u have to put a username in there not the id!
+# Just a reminder at the friend request sender u have to put a username in there not the id!
 
 
 
