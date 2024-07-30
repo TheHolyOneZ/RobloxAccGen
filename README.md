@@ -32,7 +32,7 @@ Credits to https://raw.githubusercontent.com/H20CalibreYT/RobloxAccountCreator/m
 
 GenV8BETA (final version will have a bit more then beta prolly) will have= 
            
-                                 **RoGenV8BETA - TheZ**                                           Release: 30.07.2024
+                                 **RoGenV8BETA - TheZ**                                           Release: 31.07.2024
 
 
 ### Customizable:
