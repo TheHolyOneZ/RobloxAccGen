@@ -4,6 +4,7 @@ ____________________________________________________________________________
  ____________________________________________________________________________
 A super simple Roblox Account generator using the microsoft edge browser 
 
+# Just a reminder at the freind request sender u have to put a username in there not the id!
 
 
 
@@ -64,7 +65,7 @@ Credits to https://raw.githubusercontent.com/H20CalibreYT/RobloxAccountCreator/m
                 !ID = Target
   - GroupJoiner per ID of Group
   - Follow User per ID of User
-  - Friend Request Sender per ID
+  - Friend Request Sender per Usernam 
     
     
 
