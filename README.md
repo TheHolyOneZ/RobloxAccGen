@@ -38,7 +38,7 @@ Credits to https://raw.githubusercontent.com/H20CalibreYT/RobloxAccountCreator/m
 ### Customizable:
 - Username Length
 - Password Length 
-- Custom Username File (multiple)
+- Custom Username File (multiple)(Not Working Right now because of a bug will be patched in next update)
 - Custom Username (one at once)
 - Number of Accounts to create
 - Username Generator with validater (lets you create custom usernames and looks if they are taken or not)
