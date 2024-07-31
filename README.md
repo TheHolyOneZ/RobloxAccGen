@@ -53,6 +53,9 @@ Credits to https://raw.githubusercontent.com/H20CalibreYT/RobloxAccountCreator/m
 - Toggle headless mode
   
      **|Info About Headless mode|**
+  ---------------------------------------------------------------------
+  Headless mode a little bit buggy i recommend using headless mode off
+  ----------------------------------------------------------------------
   
   |--> on=(without opening browser to create accounts)
   
@@ -65,7 +68,20 @@ Credits to https://raw.githubusercontent.com/H20CalibreYT/RobloxAccountCreator/m
                 !ID = Target
   - GroupJoiner per ID of Group
   - Follow User per ID of User
-  - Friend Request Sender per Usernam 
+  - Friend Request Sender per Usernam
+
+
+
+
+Global Settings variables: 
+running = False
+dark_mode = True
+email_notifications = False
+recipient_email = ""
+headless_mode = False
+only_letters_in_username = False
+unique_user_setting = False
+realistic_user_setting = False
     
     
 
