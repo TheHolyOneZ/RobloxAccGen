@@ -20,17 +20,6 @@ Of course only for educational purposes
 By the way all the code is made with python so if u guys want the source code or smth dont be shy and add my khord: zoryisnotreal
 
 
-
-
-
-Credits to https://raw.githubusercontent.com/H20CalibreYT/RobloxAccountCreator/main/firstnames.txt
-           https://raw.githubusercontent.com/H20CalibreYT/RobloxAccountCreator/main/lastnames.txt
-           **Used his github for the names to create the randome names**
-
-
-
-
-
            
                                  **RoGenV8BETA - TheZ**                                         
 
