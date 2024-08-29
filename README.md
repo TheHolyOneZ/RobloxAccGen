@@ -1,4 +1,6 @@
 # RobloxAccGen 
+
+### Discord Server (new): https://discord.gg/d2jMBWy8WM
 ____________________________________________________________________________
  -- Yo by the way i would appreciate when u guys star my stuff -- 
  ____________________________________________________________________________
