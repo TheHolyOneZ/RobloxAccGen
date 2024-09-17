@@ -1,6 +1,6 @@
 # RobloxAccGen 
 
-### Discord Server (Backup): https://discord.gg/QAK3aS4P 
+### Discord Server (Backup): https://discord.gg/zsGTqgnsmK 
 ____________________________________________________________________________
  -- Yo by the way i would appreciate when u guys star my stuff -- 
  ____________________________________________________________________________
