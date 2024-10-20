@@ -1,9 +1,11 @@
 # RobloxAccGen 
 
 ### Discord Server (Backup): https://discord.gg/zsGTqgnsmK 
-____________________________________________________________________________
+_______________________________________________________________________________________________________________________________________________________________________
+
+   Some people asked for the source code of it and i gave it to them so if u dont trust the exe file feel free to dm me in my discord and i will give u the source code
  -- Yo by the way i would appreciate when u guys star my stuff -- 
- ____________________________________________________________________________
+ _______________________________________________________________________________________________________________________________________________________________________
 A super simple Roblox Account generator using the microsoft edge browser 
 
 # Just a reminder at the friend request sender u have to put a username in there not the id!
