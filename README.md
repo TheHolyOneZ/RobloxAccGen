@@ -1,5 +1,5 @@
 # RobloxAccGen 
-
+### the gen DOESNT work right now  you will get flagged (get a captcha)
 ### Discord Server (Backup): https://discord.gg/zsGTqgnsmK 
 _______________________________________________________________________________________________________________________________________________________________________
 
