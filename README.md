@@ -1,5 +1,6 @@
 # RobloxAccGen 
-### the gen DOESNT work right now  you will get flagged (get a captcha)
+### The gen doesn't work right now; you will get flagged (and asked to complete a CAPTCHA)
+## However, I uploaded the source code to my Discord (via Mega.nz). Join to get it. I also integrated an anti-captcha feature; you just need to enter your CAPTCHA key.
 ### Discord Server (Backup): https://discord.gg/zsGTqgnsmK 
 _______________________________________________________________________________________________________________________________________________________________________
 
