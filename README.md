@@ -1,13 +1,19 @@
 # RobloxAccGen 
-### The gen doesn't work right now; you will get flagged (and asked to complete a CAPTCHA)
-## However, I uploaded the source code to my Discord (via Mega.nz). Join to get it. I also integrated an anti-captcha feature; you just need to enter your CAPTCHA key.
-### Discord Server (Backup): https://discord.gg/zsGTqgnsmK 
-_______________________________________________________________________________________________________________________________________________________________________
 
-   Some people asked for the source code of it and i gave it to them so if u dont trust the exe file feel free to dm me in my discord and i will give u the source code
- -- Yo by the way i would appreciate when u guys star my stuff -- 
- _______________________________________________________________________________________________________________________________________________________________________
-A super simple Roblox Account generator using the microsoft edge browser 
+
+
+I am currently working on the RoGenV9 for updated Join my discord server
+
+I am not sure when im gonna release it tho prolly next week it depends right now im struggling with captcahsolver apis (i just get errors even if everything is correct) 
+
+7-9.02.25 
+
+------------------
+
+
+##### The gen doesn't work right now; you will get flagged (and asked to complete a CAPTCHA)
+#### However, I uploaded the source code to my Discord (via Mega.nz). Join to get it.
+##### Discord Server: https://discord.gg/zsGTqgnsmK 
 
 # Just a reminder at the friend request sender u have to put a username in there not the id!
 
